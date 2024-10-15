@@ -17,6 +17,8 @@ Moreover, it follows a structured, interactive approach to assist users, asking 
 
 The tool also offers the option to integrate with cloud storage solutions like AWS S3 or Google Cloud, allowing users to offload older files to the cloud for better storage optimization. Users can set storage limits, file types to manage, and specify when and how files should be archived. Although developed for Windows, similar scheduling automation could be achieved on Linux systems using cron jobs or on Windows with Task Scheduler, making it versatile for different environments.
 
+To implement the Regulated File Manager on a Raspberry Pi with SSD NVMe storage, you can take advantage of the Pi's low power consumption and flexibility as a storage hub. The Raspberry Pi can be configured to run the software continuously, automating file organization and archiving as a dedicated server. By using an NVMe SSD with an appropriate USB adapter or expansion board, the Pi gains faster read/write capabilities, significantly enhancing the performance of file management tasks, especially for large files or databases. This setup provides a compact, efficient solution for local and cloud-based storage management.
+
 #
 ### Digital Filing Hardware
 
