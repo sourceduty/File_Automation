@@ -11,6 +11,20 @@ The system prioritizes simplicity and ease of use, avoiding overly complex or ab
 Moreover, it follows a structured, interactive approach to assist users, asking questions and guiding them through multiple-choice steps to ensure clarity. This helps tailor the automation process to the user's specific needs, ensuring that the solutions provided are both accurate and effective. Overall, this GPT is designed to make file handling more streamlined, reducing manual effort while improving workflow management.
 
 #
+### Digital Filing Hardware
+
+1. Automated File Backup System - Schedule and automate backups of important files to local or cloud storage.
+2. Document Scanner and Organizer - Scan physical documents, convert to PDF, and organize them by date or category.
+3. Media File Server - Set up a centralized server for storing and accessing media files, with automated backups.
+4. Personal Cloud Storage - Create a private cloud storage system with automated file synchronization across devices.
+5. Digital Photo Frame - Display photos from a connected drive or cloud, automatically updating with new images.
+6. Data Logger - Automatically collect and store sensor data (e.g., temperature, humidity) in CSV or JSON format for analysis.
+7. Network File Monitor - Monitor a folder or network drive for changes, logging and storing modifications.
+8. Automated File Sorting - Organize files into specific folders based on file type, date, or other attributes.
+9. Secure File Vault - Encrypt and securely store sensitive files, with automated access logging.
+10. Video Surveillance File Organizer - Automatically manage and store security camera footage, deleting old files based on storage limits.
+
+#
 
 ![Files](https://github.com/user-attachments/assets/1488f2bc-01e1-4cd0-bb64-acf16c8da9af)
 
