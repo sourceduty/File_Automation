@@ -32,6 +32,8 @@ Moreover, it follows a structured, interactive approach to assist users, asking 
 [Sequenced File Folder](https://github.com/sourceduty/Sequenced_File_Folders)
 <br>
 [Smart Folder](https://github.com/sourceduty/Smart_Folder)
+<br>
+[Rename](https://github.com/sourceduty/Rename)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
