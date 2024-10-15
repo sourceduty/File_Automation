@@ -13,6 +13,7 @@ Moreover, it follows a structured, interactive approach to assist users, asking 
 #
 ### Digital Filing Hardware
 
+```
 1. Automated File Backup System - Schedule and automate backups of important files to local or cloud storage.
 2. Document Scanner and Organizer - Scan physical documents, convert to PDF, and organize them by date or category.
 3. Media File Server - Set up a centralized server for storing and accessing media files, with automated backups.
@@ -23,6 +24,7 @@ Moreover, it follows a structured, interactive approach to assist users, asking 
 8. Automated File Sorting - Organize files into specific folders based on file type, date, or other attributes.
 9. Secure File Vault - Encrypt and securely store sensitive files, with automated access logging.
 10. Video Surveillance File Organizer - Automatically manage and store security camera footage, deleting old files based on storage limits.
+```
 
 #
 
