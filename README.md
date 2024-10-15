@@ -26,6 +26,12 @@ Moreover, it follows a structured, interactive approach to assist users, asking 
 [Corporate Automation](https://github.com/sourceduty/Corporate_Automation)
 <br>
 [Input Automation](https://github.com/sourceduty/Input_Automation)
+<br>
+[Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
+<br>
+[Sequenced File Folder](https://github.com/sourceduty/Sequenced_File_Folders)
+<br>
+[Smart Folder](https://github.com/sourceduty/Smart_Folder)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
