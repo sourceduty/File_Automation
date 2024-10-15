@@ -11,6 +11,13 @@ The system prioritizes simplicity and ease of use, avoiding overly complex or ab
 Moreover, it follows a structured, interactive approach to assist users, asking questions and guiding them through multiple-choice steps to ensure clarity. This helps tailor the automation process to the user's specific needs, ensuring that the solutions provided are both accurate and effective. Overall, this GPT is designed to make file handling more streamlined, reducing manual effort while improving workflow management.
 
 #
+### Regulated File Automation Hardware
+
+[Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager) is a concept for efficient file management on Windows, designed to automatically organize and regulate files. It aims to minimize clutter by limiting the number of loose files outside designated folders, archiving older files based on their age, and organizing them according to user-specified parameters. This helps in maintaining a clean, accessible storage environment, especially useful for large data volumes.
+
+The tool also offers the option to integrate with cloud storage solutions like AWS S3 or Google Cloud, allowing users to offload older files to the cloud for better storage optimization. Users can set storage limits, file types to manage, and specify when and how files should be archived. Although developed for Windows, similar scheduling automation could be achieved on Linux systems using cron jobs or on Windows with Task Scheduler, making it versatile for different environments.
+
+#
 ### Digital Filing Hardware
 
 ```
@@ -42,8 +49,6 @@ Moreover, it follows a structured, interactive approach to assist users, asking 
 [Corporate Automation](https://github.com/sourceduty/Corporate_Automation)
 <br>
 [Input Automation](https://github.com/sourceduty/Input_Automation)
-<br>
-[Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 <br>
 [Sequenced File Folder](https://github.com/sourceduty/Sequenced_File_Folders)
 <br>
