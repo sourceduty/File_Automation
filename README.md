@@ -52,7 +52,7 @@ To implement the Regulated File Manager on a Raspberry Pi with SSD NVMe storage,
 <br>
 [Input Automation](https://github.com/sourceduty/Input_Automation)
 <br>
-[Sequenced File Folder](https://github.com/sourceduty/Sequenced_File_Folders)
+[Sequenced File Folders](https://github.com/sourceduty/Sequenced_File_Folders)
 <br>
 [Smart Folder](https://github.com/sourceduty/Smart_Folder)
 <br>
