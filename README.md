@@ -36,6 +36,27 @@ To implement the Regulated File Manager on a Raspberry Pi with SSD NVMe storage,
 ```
 
 #
+### File Structure
+
+```
+File Structure Abstraction
+|
+|-- File Format
+|   |-- Definition of file format (e.g., PDF, JPEG, TXT)
+|   |-- File format usage and compatibility
+|
+|-- File Content
+|   |-- Data or information contained in the file
+|   |-- Organization or structure of content within the file
+|
+|-- File Metadata
+    |-- Definition of metadata (e.g., creation date, author, file size)
+    |-- Examples of common metadata
+```
+
+The concept of file structure abstraction encompasses three main components: file format, file content, and file metadata. The file format defines the technical encoding of a file, which determines how it is used and with which software it is compatible, such as PDFs for documents or JPEGs for images. File content refers to the actual data or information contained within the file, organized in a way that aligns with its format. Lastly, file metadata provides essential contextual information about the file, such as the creation date, author, and file size, offering a deeper understanding of its origin and usage characteristics. Together, these elements help users and systems effectively manage, utilize, and understand digital files.
+
+#
 
 ![Files](https://github.com/user-attachments/assets/1488f2bc-01e1-4cd0-bb64-acf16c8da9af)
 
